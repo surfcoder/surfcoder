@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @surfcoder
-- 👀 I’m interested in lots of things
-- 🌱 I’m currently learning more than any one person should
-- 💞️ I’m looking to collaborate on something that'll change the world
-- 📫 How to reach me ...
+![pfaff-buble](https://github.com/surfcoder/surfcoder/assets/63432100/07606a10-3914-415c-ae40-19afcfb7733d)
 
 <!---
 surfcoder/surfcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
